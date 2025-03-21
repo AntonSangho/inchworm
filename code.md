@@ -15,7 +15,7 @@
 
 이 그림처럼 블록을 연결하면 돼요:
 
-![코드 블록](/img/microbit-inchworm.png)
+![코드 블록](/img/microbit-inchworm-code.png)
 
 ## 텍스트코딩 (Python)
 

@@ -7,13 +7,16 @@
 - 다 합치면: 약 1시간
 
 ## 필요한 것들
-- 마이크로비트 확장보드 상향
+- 마이크로비트 확장보드 상향  
+<img src="/img/microbit-expandboard-up.jpg" alt="microbit-expoand-up" width="50%" />  
 - AA 배터리 2개
 - AA 배터리 케이스
-- 미니 빵판
+![battery](/img/battery_case_AA.jpg)
 - 서보모터
 - 자벌레 종이
-- 가위, 테이프, 글루건(선택사항)
+- 가위
+- 글루건 
+- 클립  
 - 색연필이나 사인펜(선택사항)
 
 ## 자벌레 만들기
