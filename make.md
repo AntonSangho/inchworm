@@ -25,7 +25,7 @@
 1. 자벌레 종이를 준비해요.
 2. 가위로 자벌레 모양을 오려내요.
 
-<img src="/img/inchwarm_drawing.jpg" alt="drawing" width="50%" />   
+<img src="/img/inchwarm_drawing_1.jpg" alt="drawing" width="50%" />   
 
 ### 서보모터와 자벌레 연결하기
 1. 클립 펴서 서보모터 연장에 고리를 걸어요  
