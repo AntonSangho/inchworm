@@ -8,7 +8,7 @@
 
 ## 필요한 것들
 - 마이크로비트 확장보드 상향  
-<img src="/img/microbit-expandboard-up.jpg" alt="microbit-expoand-up" width="50%" />  
+<img src="/img/microbit-expandboard-up.jpg" alt="microbit-expoand-up" width="20%" />  
 - AA 배터리 2개
 - AA 배터리 케이스
 ![battery](/img/battery_case_AA.jpg)
