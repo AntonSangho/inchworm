@@ -9,14 +9,15 @@
 ## 필요한 것들
 - 마이크로비트 확장보드 상향  
 <img src="/img/microbit-expandboard-up.jpg" alt="microbit-expoand-up" width="20%" />    
-- AA 배터리 2개
-- AA 배터리 케이스
-<img src="/img/battery_case_AA.jpg" alt="aa battery case" width="20%" />     
-- 서보모터    
-- 자벌레 종이    
-- 가위  
-- 글루건   
-- 클립    
+- AA 배터리 2개  
+- AA 배터리 케이스  
+<img src="/img/battery_case_AA.jpg" alt="aa battery case" width="20%" />  
+
+- 서보모터      
+- 자벌레 종이      
+- 가위    
+- 글루건     
+- 클립      
 - 색연필이나 사인펜(선택사항)
 
 ## 자벌레 만들기
