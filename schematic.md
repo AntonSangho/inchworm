@@ -7,7 +7,6 @@
 - 점퍼선 ( 암 / 수)
 - AA 배터리 2개
 - AA 배터리 케이스
-<img src="/img/battery_case_AA.jpg" alt="aa battery case" width="20%" />  
 
 ## 어떻게 연결하나요?
 
@@ -17,8 +16,6 @@
 2. AA 배터리 3개를 배터리 케이스에 넣어요. (+)와 (-) 방향이 올바른지 확인하세요.
 3. 배터리 케이스를 확장보드에 연결해요.
 4. 스위치는 OFF로 두어요 
-
-![기본 연결 그림](/img/basic-connection-caterpillar.jpg)
 
 ### 서보모터 연결하기
 
@@ -34,7 +31,7 @@
    - 갈색 선은 확장보드의 "-" 또는 "G"라고 표시된 핀에
    - 주황/노란색 선은 확장보드의 "S" 또는 "P0"이라고 표시된 핀에
 
-![서보모터 연결](/img/servo-connection-schematic.jpg)
+![서보모터 연결](/img/inchwarm_schematic.jpg)
 
 ## 알아두면 좋은 점
 

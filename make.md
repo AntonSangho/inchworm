@@ -7,12 +7,11 @@
 - 다 합치면: 약 1시간
 
 ## 필요한 것들
-- 마이크로비트 확장보드 상향  
-<img src="/img/microbit-expandboard-up.jpg" alt="microbit-expoand-up" width="20%" />    
+- 마이크로비트 확장보드 꺽임형  
+![img](img/microbit-expandboard-angle.png)  
 - AA 배터리 2개  
 - AA 배터리 케이스  
-<img src="/img/battery_case_AA.jpg" alt="aa battery case" width="20%" />  
-
+![img](img/battery_case_AA.jpg)  
 - 서보모터      
 - 자벌레 종이      
 - 가위    
